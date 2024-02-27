@@ -1,0 +1,1 @@
+You can use the visdrone2coco.py to process the visdrone.
