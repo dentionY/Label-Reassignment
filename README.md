@@ -53,6 +53,9 @@ We provide a full support for the UAVDT dataset.
 - You need to download the UAVDT dataset from its [UAVDT-self Baidu Pan](https://pan.baidu.com/s/1x6JWwAHPca05NgsTHr2Vyw) with password nnah.
 - Pre-process the dataset by using the tips in `uavdt/readme.txt` to gain the .json.
 
+### AI-TOD setting:
+
+The whole dataset and process code could be found in [AI-TOD official website](https://chasel-tsui.github.io/AI-TOD-v2/)
 
 ### Training
 
