@@ -103,7 +103,7 @@ modelpath = './model.onnx'
 
 onnx_tool.model_profile(modelpath) # pass file name
 onnx_tool.model_profile(modelpath, savenode='model_node_table.txt') # save profile table to txt file
-onnx_tool.model_profile(modelpath, savenode='model_lr_node_table.csv') # save profile table to csv file
+onnx_tool.model_profile(modelpath, savenode='model_node_table.csv') # save profile table to csv file
 ```
 
 ### Deploy the model on the Axera Pi Platform
