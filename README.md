@@ -22,7 +22,7 @@ python setup.py develop
 
 We provide a full support for the VisDrone dataset.
 
-- You need to download the VisDrone dataset from its [Visdrone-self Baidu Pan](https://pan.baidu.com/s/1PgjkByix_3UcFQf1Wh7TkQ) with password 7vcp. 
+- You need to download the VisDrone dataset from its [Visdrone-self Baidu Pan](https://pan.baidu.com/s/1PgjkByix_3UcFQf1Wh7TkQ) with password `7vcp`. 
 - Unzip and place the downloaded dataset as following:
 
 ```
@@ -50,7 +50,7 @@ We provide a full support for the VisDrone dataset.
 
 We provide a full support for the UAVDT dataset.
 
-- You need to download the UAVDT dataset from its [UAVDT-self Baidu Pan](https://pan.baidu.com/s/1x6JWwAHPca05NgsTHr2Vyw) with password nnah.
+- You need to download the UAVDT dataset from its [UAVDT-self Baidu Pan](https://pan.baidu.com/s/1x6JWwAHPca05NgsTHr2Vyw) with password `nnah`.
 - Pre-process the dataset by using the tips in `uavdt/readme.txt` to gain the .json.
 
 ### AI-TOD setting:
